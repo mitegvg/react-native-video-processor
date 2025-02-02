@@ -76,7 +76,7 @@
     "@types/react": "18.1.0"
   },
   "peerDependencies": {
-    "ffmpeg-kit-react-native": "^5.1.0",
+    "ffmpeg-kit-react-native": "^6.0.2",
     "react": "*",
     "react-native": "*",
     "react-native-video": "^5.2.1"
